@@ -1,3 +1,8 @@
-COMPILATION ERROR in file to be executedError in code at line 40:                   sprite_add=("images/sprites/rido/rido_walking/sprRidoWalkingDown.png",2,1,0,14,16)                                                                                       ^at position 86: Symbol ) expected.
+ERROR in
+action number 1
+of  Step Event
+for object objRido:
+
+Error in code at line 41:   				sprite_index=sprRidoWalkingDown                   ^at position 18: Unknown variable sprRidoWalkingDown
 
 

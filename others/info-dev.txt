@@ -1,0 +1,5 @@
+Herramientas de Edición:
+
+-Edicion de Código: Sublime-Text2+GMLplugin
+
+-Compilador: Enigma-dev&Game-Maker8

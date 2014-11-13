@@ -37,7 +37,7 @@ if keyboard_check(vk_up)
  if keyboard_check(vk_down)
     {
         
-                sprite_add=("images/sprites/rido/rido_walking/sprRidoWalkingDown.png",2,1,0,14,16)
+                sprRidoWalkingDown=sprite_add("images/sprites/rido/rido_walking/sprRidoWalkingDown.png",2,1,0,14,16)
 				sprite_index=sprRidoWalkingDown
                 image_speed=0.25
                 action_move("010000000",speed_move_rido);
