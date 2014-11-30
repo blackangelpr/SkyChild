@@ -1,19 +1,19 @@
 #define scr_VarINIT
-//Variables de Inicio
-
+//Nombre:      scr_VarINIT
+//Descripcion: Variables de Inicio
+//Autor:       Billy Yeffry Fernandez
+//Licencia:    GPL2.0
+{
 //Rido Main Character
 speed_move_rido=4;
-
+}
 
 #define scr_MoveRido
-//cada que vez que una tecla de direccion es soltada detiene el movimiento del personaje
-
-/*if keyboard_key_release (vk_left) and keyboard_key_release (vk_right) and keyboard_key_release (vk_up) and keyboard_key_release (vk_down)
-    {
-        action_move("000010000",0);
-        image_speed=0;
-    }
-*/
+//Nombre:      scr_MoveRido
+//Descripcion: Control de movimiento Main Character
+//Autor:       Billy Yeffry Fernandez
+//Licencia:    GPL2.0
+{
 if keyboard_check(vk_nokey)
     {
         action_move("000010000",0);
@@ -48,6 +48,7 @@ if keyboard_check(vk_up)
                 image_speed=0.25
                 action_move("010000000",speed_move_rido);
             
-    }       
+    }    
+} 
 
 
