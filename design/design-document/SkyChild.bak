@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<YWRITER5>
+	<PROJECT>
+		<Ver>5</Ver>
+		<Title><![CDATA[SkyChild]]></Title>
+		<LaTeXHeaderFile><![CDATA[]]></LaTeXHeaderFile>
+		<Desc><![CDATA[]]></Desc>
+		<FieldTitle1><![CDATA[Relevance]]></FieldTitle1>
+		<FieldTitle2><![CDATA[Tension]]></FieldTitle2>
+		<FieldTitle3><![CDATA[Humour]]></FieldTitle3>
+		<FieldTitle4><![CDATA[Quality]]></FieldTitle4>
+		<Bio><![CDATA[]]></Bio>
+		<AuthorName><![CDATA[Billy Yeffry Fernández]]></AuthorName>
+		<CollabFolder></CollabFolder>
+		<WordTarget>0</WordTarget>
+		<EndFrontMatterChID>11</EndFrontMatterChID>
+		<EndMiddleChID>11</EndMiddleChID>
+		<EndBeginningChID>11</EndBeginningChID>
+		<WordCountStart>0</WordCountStart>
+		<XMLFileVersion>4</XMLFileVersion>
+		<LatexSingleQuotes>0</LatexSingleQuotes>
+		<LatexSuppressChapterTitles>0</LatexSuppressChapterTitles>
+		<LatexSceneDividerStyle>0</LatexSceneDividerStyle>
+		<HtmlSceneDivider>%23</HtmlSceneDivider>
+		<HtmlEncoding></HtmlEncoding>
+		<HtmlUnicode>0</HtmlUnicode>
+		<LastFullBackup>2014-11-30</LastFullBackup>
+		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
+		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
+		<MRUSpecificDate>1899-12-30</MRUSpecificDate>
+		<MRUSpecificTime>00:00</MRUSpecificTime>
+		<LastViewedScID>4</LastViewedScID>
+		<DeadlineDate1>2014-03-29</DeadlineDate1>
+		<DeadlineDate2>2014-04-28</DeadlineDate2>
+		<DeadlineDate3>2014-05-28</DeadlineDate3>
+		<DeadlineDate4>2014-06-27</DeadlineDate4>
+		<DeadlineDate5>2014-07-27</DeadlineDate5>
+		<DeadlineStartDate1>2014-02-28</DeadlineStartDate1>
+		<DeadlineStartDate2>2014-03-30</DeadlineStartDate2>
+		<DeadlineStartDate3>2014-04-29</DeadlineStartDate3>
+		<DeadlineStartDate4>2014-05-29</DeadlineStartDate4>
+		<DeadlineStartDate5>2014-06-28</DeadlineStartDate5>
+	</PROJECT>
+	<LOCATIONS>
+	<LOCATION>
+		<ID>1</ID>
+		<Title><![CDATA[Aido]]></Title>
+		<Desc><![CDATA[Continente]]></Desc>
+		<Tags><![CDATA[continente]]></Tags>
+		<SortOrder>1</SortOrder>
+	</LOCATION>
+	<LOCATION>
+		<ID>2</ID>
+		<Title><![CDATA[Pueblo de Lesios]]></Title>
+		<Desc><![CDATA[Pueblo Runa del Occidente]]></Desc>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Lesios]]></AKA>
+	</LOCATION>
+	<LOCATION>
+		<ID>3</ID>
+		<Title><![CDATA[Isla de Baiklás]]></Title>
+		<Desc><![CDATA[La isla en el cielo de donde proceden los niños.]]></Desc>
+		<SortOrder>3</SortOrder>
+		<AKA><![CDATA[Isla del Elipsio]]></AKA>
+	</LOCATION>
+	</LOCATIONS>
+	<ITEMS>
+	</ITEMS>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Rido]]></Title>
+		<Desc><![CDATA[Personaje principal del videojuego.]]></Desc>
+		<Tags><![CDATA[Rido, Main Character]]></Tags>
+		<Notes><![CDATA[Tiene un fuerte deseo de llegar al sol al igual que su hermano.
+No Recuerda nada de su pasado.
+Imágenes extrañas le atormentan en sus sueños.]]></Notes>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Uranko (nombre cuando era deidad)]]></AKA>
+		<Bio><![CDATA[Uranko era uno de los Antiguos dioses conocidos como Rúnari que habitaban el Reino del Sol en el pasado. Su jurisdicción era la Justicia.
+
+Cuando los Bardos se sublevaron, convirtieron a los Rúnari en niños incluido Uranko, los cristalizaron y los enviaron a la tierra junto a las demás razas que habitaban el Sol.
+
+Luego de 400 años durmiendo, por fin los 4 gigantes en la isla flotante del Elipsio logran descristalizar a dos de los niños, este es Uranko y el otro es Karak. Debido al esfuerzo que les supuso calleron en un profundo Sueño. Los dos niños no recordaban nada de su pasado, asi que cada uno le puso nombre al otro, Karak llamó a Uranko Rido, y Uranko llamo a Karak Ucaru.
+
+Sin recordar nada, estos dos tienen un fuerte deseo inexplicable de ir al sol, que ellos mismos no logran entender, al igual que no entienden el porq de la isla flotante, que abrá alla debajo, e incluso quienes son esos cuatro gigantes dormidos. Construyen una esfera de mantio (manterial resistente a las radiaciones solares) y construyen un tirapiedras gigante, y ponen la esfera. Se adentran y luego despegan. Error de cálculos dicen y que por esto caen a la superficie terrestre.
+
+
+
+
+]]></Bio>
+		<Goals><![CDATA[Su objetivo principal es rescatar a su hermano Ucaru de las manos de los Urios.
+
+]]></Goals>
+		<FullName><![CDATA[Rido Gunpei]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Ucaru]]></Title>
+		<Notes><![CDATA[Impulsivo y testarudo.]]></Notes>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Karak (antes como deidad)]]></AKA>
+		<Goals><![CDATA[Su objetivo principal es llegar al sol, sin importarle que medio usar. ]]></Goals>
+		<FullName><![CDATA[Ucaru Rim]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Ura]]></Title>
+		<Desc><![CDATA[Esposa de Remsu. Dio origen al nombre de todo el pueblo Urio.]]></Desc>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Uria Magen]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Remsu]]></Title>
+		<Desc><![CDATA[Antagonista prinicpal]]></Desc>
+		<Tags><![CDATA[Urios]]></Tags>
+		<SortOrder>4</SortOrder>
+		<Bio><![CDATA[Perteneciente al pueblo de los Bardos.
+
+El clan de los bardos de de la tierra, los Aibardos, fueron un pequeño grupo de bardos en el cielo que sintieron lástima por los Rúnari y se opucieron a los Bardos Dominantes en el Sol (Gobardos), como consecuencia fueron arrojados a la tierra.
+
+El lugar donde calleron se conocía como la isla del Demán. Los nativos, los Demanitas inmediatamente los enfrentaron en guerra.
+
+Los demanitas eran un pueblo que formaban parte del ecosistema de la tierra. Durante los ciclos de la vida de la tierra, se generaba algun defecto en el funcionamiento  del mecanismo terrestre, estos cumplían el papel de repararlo. Habían cuatro tipos de ellos en funcion del elemento que dominaban: agua, fuego, tierra y viento. y uno quinto casi extinto... el de la vida.
+
+Cuando los Aibardos fueron ganándoles terreno, los Demanitas convertían el lugar donde ellos residían en un desierto montañoso y rocoso.
+
+Asi pasaron décadas y décadas de luchas, de hambruna, de pobreza... Kakisu, lider de una de las familias de los Aibardos, tuvo un hijo llamado Remsu. Este al crecer, se sentía herido por todo el sufrimiento que le ocurria a su raza.
+
+Luego sus familiares, la familia Merris, calleron victimas de un ataque sorpresa de los Demanitas del Fuego Kakisu quedo muy herido. En su agonía mandó a llamar a su hijo. 
+
+-Peleamos por tener un lugar donde morir. Cada paraíso que le arrebatamos a los demanitas se convierte en nuestras manos en arena y cenisa. Me arrepiento profundamente de haberme sublebado contra los Gobardos el día que le arrebataron a los Dioses el Sol.
+Los Bardos diseñamos este mundo, al que con tanto amor pusimos cada detalle. Sabíamos que los dioses nos darían a cada pueblo un lugar donde descansar, porque en ningun momento diseñaron la vida que residiría en este mundo. Soñábamos que nosotros seríamos los huéspedes de este mundo. Pero los Supremos tenían otro plan, dieron este mundo a los recolectores de basura, a los esturios.
+
+Esto causó desaliento entre los Bardos y los llenó de furia. Así que embaucaron a los supremos, y los encerraron con cadenas sempiternas aqui en el Aido, proclamando ellos al Aido como el Basurero del Universo, ya que fue dada a los recolectores de basura, los esturios.
+
+Los Aibardos no podíamos aguantar tanta injusticia, asi que en secreto urdíamos un plan para restituir a los supremos al sol. Pero fuimos descubiertos y exiliados al Aido.
+
+El terreno en el que caímos era el Demán, un lugar sagrado y que ningun otro ser vivo debía pisar. Los Demanitas no nos reconicieron como sus constructores, mas bien lo habiamos diseñado para eso, defender el planeta. Para sobrevivir tuvimos que luchar contra ellos.
+
+Pero sin el apoyo del Sol eramos debiles y ha sido una pesadilla esta lucha. Debemos buscar la manera en que los Gobardos nos perdonen y nos permitan regresar al sol.
+
+Hay una roca que conecta a este mundo con el Sol. Por mucho tiempo trate de localizar su paradero pero no e dado con ella. Pero ningun ser vivo de este mundo puede cruzar la puerta, porque nadie puede pagar el peaje que requiere.
+
+Aun asi Remsu, luego de eso, se embarcó en la búsqueda de esa piedra sagrada.
+
+
+]]></Bio>
+		<Goals><![CDATA[Apoderarse del Aido para darle esa tierra a los "hijos de Ura" (los Urios) y por fin sean felices.
+
+Tambien busca la Piedra del Sol para descristalizar a su esposa Ura Magen.]]></Goals>
+		<FullName><![CDATA[Remsu Merris]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Sayros]]></Title>
+		<Desc><![CDATA[General de los Ejércitos Urios.]]></Desc>
+		<Tags><![CDATA[Urio]]></Tags>
+		<Notes><![CDATA[Sairus es alguien muy devoto a sus antepasados. Y pone los intereses de ellos por encima de los suyos.]]></Notes>
+		<SortOrder>5</SortOrder>
+		<Bio><![CDATA[El General Sayros, hijo de Sayo, antiguo general de los Urios, el cuarto general, después de la caída del emperador Remsu.
+
+Desde pequeño su padre le hablaba de una hermosa tierra al horizonte donde todo era felicidad, y donde vivieron alguna vez y fueron reyes del mundo. Pero unos niños llegaron del cielo y enseñaron el arte de la guerra a los esclavos, estos se sublebaron y se alzaron contra el emperador. Luego de asesinarlo, los bardos fueron expulsados de la tierra, y los hijos bastardos del sol regresaron al cielo. 
+
+Ura, el sacerdotiza y líder del ejército del pueblo, asumió el control de los asuntos, juró que no se regresaría el poder al emperador hasta reconquistar de nuevo el continente perdido, el Aido.
+
+Desde entonces el pueblo Bardo se alimentó de los ideales de Ura, es por ello que se les llego a conocer como el pueblo Urio.
+
+Llegaron a una isla de ambiente agrio y desértico llamada el Demán. Aqui lucharon dos siglos contra el pueblo de los Demanitas, robaron su tecnología y su tierra. 
+
+Ura vivió estos días, luego se levantó Kakisu quien estableció completamente el pueblo en la tierra. Luego su hijo Sayo heredó el poder, fue el primero en tantos años en tratar de reconquitar la tierra del Aido.
+
+Cuando Sayros era niño, su padre organizó la expedición naval de reconquista del Aido, le dijo a su hijo, que le hiba a mostrar la tierra de sus antepasados, que se bañaría en aguas limpias, comeria alimento puro, y sería uno de los reyes de la tierra. Que la reconquistaría de los esclavos. Pero su padre nunca regresó por él.
+
+Su padre nunca regresó ni ningun barco que zarpó aquel día., Tan siendo solo un niño, asumió la jefatura del Ejército, y armó una nueva expedición en busca de su padre. Luego de muchas visicitudes, encontraron su barco destruido en la costa del Aido. 
+
+Entonces Sayros juró venganza y en completar todo lo que se propusieron sus antepasados. Encontrar a su padre, devolverle el poder al emperador, y regresar la tierra del Aido a su pueblo y subyugar de los esclavos.
+
+Sayros se pinta como el primer antagonista, es alguien que vive engañado por sus antepasados, y actúa por buenos motivos. Repudia a todos los habitantes el Aido, los considera como una raza inferior. A lo largo del juego va descubriendo cosas que lo hacen dudar, pero sigue siendo testarudo. Logra darse cuenta de su error luego que resusita a Remsu, quien le hace ver lo estúpido que era.
+]]></Bio>
+		<Goals><![CDATA[ Su deseo es devolverle las tierras del Aido a su pueblo, que según sus antepasados las tribus subyugadas les habían arrebatado. 
+
+Su otra meta es devolverle la vida a Remsu, para eso busca las piezas de la piedra del sol, y devolverle el poder al emperador.]]></Goals>
+		<FullName><![CDATA[Sayros Uro]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Abuelo Gon]]></Title>
+		<SortOrder>6</SortOrder>
+		<FullName><![CDATA[Gon Farole]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Eli Farole]]></Title>
+		<Notes><![CDATA[Hermana desaparecida de Gon Farole]]></Notes>
+		<SortOrder>7</SortOrder>
+		<FullName><![CDATA[Elisanna Farole]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Narrador]]></Title>
+		<SortOrder>8</SortOrder>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Ruro]]></Title>
+		<Desc><![CDATA[Niño huérfano que vive con el Abuelo Gon.]]></Desc>
+		<SortOrder>9</SortOrder>
+		<Bio><![CDATA[Ruro vivía en el Pueblo de Elios, en parte céntrica del continente, un pueblo agrícola y dedicado al ganado, desprovisto de murallas, pero hace siglos habían construido el Puente de Zunken para conectar la parte Oriental del contienente con la Occidental através del gran río Travía. 
+
+Cuando Ruro tenía tan solo 4 años Los Urios llegaron por la costa Oriental del continente. Invadieron las montañas del Cinto al norte y y expulsaron a todos los Bárdalos de allí, colocando en su cima su Fortaleza Principal. Subyugaron a los Bárdalos en el Desierto, Les Arrevataron la Ciudad Portuaria Xeros (Calavera) de los Neviros en el continente, faltando solamente por conquistar la isla Neviro en el Mar. Subyugaron tambien a los Argonios en el Bosque del Kario entre las montañas del Arco. Entonces fue cuando Cruzaron el río y trataron de subyugar el Pueblo de Elios. Pero Gon y unos pocos se alzaron en armas. La pequeña revuelta de Elios no tuvo éxito. Y Sayros,el general de los Urios, cambió su política de subyugación a masacre, arrasó con el pueblo y con el padre de Ruro. Gon y algunos restantes huyeron, pero los Urios los persiguieron. Pero al Adentrarse a las Montañas del Surco los perdieron. Así llegaron a una costa secreta entre los montes y fundaron el pequeño Pueblo de Lesios.
+
+Ruro siente gran odio por los Urios, tiene el sueño de algún día acabar con todos ellos.
+
+En cuanto a lo demás de la invasión, La pequeña Revuelta causó que los Argonios, el pueblo completo se levantara en armas. Pero los Urios en concecuencia convirtieron el bosque del Kario en un pantano, y los argonios fueron muriendo poco a poco. Los Neviros tambien se levantaron en Armas dos largos años trataron de recuperar el puerto de Xeros. Aquí es cuando los Bárdalos se levantan en Armas para ayudar a sus amigos los Neviros. Estos mismo rompen el puente de Zunken para dejar aislados a los Urios que se adentraron al Occidente. Así logran liberarse del yugo de los Urios por un tiempo, y el Puerto Xeros se le cambia el nombre a Puerto Victoria, porque es el primer lugar donde se venció a los Urios. En el Puerto Entonces se comenzó a acoger a los Argonios infectados en el pantano para ser tratados.
+
+En cuanto al Occidente los Bárdalos trataron de tomar Ciudad Riruna del pueblo de los Runas, pero sus Altas y gruesas murallas al igual que sus aguas profundas e infestadas de bestias peligrosas, no pudieron apoderarse de ella, aunque lo siguieron intentando por dos años más. Luego se Adentraron al Bosque Bumbei para tomar el lugar y masacrar a los Doras, pero el confuso bosque le consumió mucho tiempo. Luego invaden Ciudad Corsau de los Runas en la península Rienbou al occidente, y masacran al pueblo.
+
+luego de Cuatro años invaden a los mitrones en las montañas del Surco y los subyugan para obligarlos a construir un tunel que conecte el occidente  con el oriente debajo de la tierra, y así recuperar el poder perdido en esas tierras.
+
+Es entonces cuando Ruro encuentra a Rido en el mar.]]></Bio>
+		<FullName><![CDATA[Ruro Gunpei]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[Camus]]></Title>
+		<Desc><![CDATA[Jefe de la División de los Cazadores entre los mitrones.]]></Desc>
+		<SortOrder>10</SortOrder>
+		<FullName><![CDATA[Tengue Camus]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>11</ID>
+		<Title><![CDATA[Marcus]]></Title>
+		<Desc><![CDATA[Dirigente absoluto de toda la tribu de los Mitrones, jefe de los tres Tengues.]]></Desc>
+		<SortOrder>11</SortOrder>
+		<FullName><![CDATA[Tatengue Marcus]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>12</ID>
+		<Title><![CDATA[El Asanti]]></Title>
+		<Desc><![CDATA[ex-Jefe de los bárdalos]]></Desc>
+		<SortOrder>12</SortOrder>
+		<FullName><![CDATA[Negurio Sanora]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>13</ID>
+		<Title><![CDATA[Dorio]]></Title>
+		<SortOrder>13</SortOrder>
+		<AKA><![CDATA[Dorio el Navegante]]></AKA>
+		<Bio><![CDATA[Dorio es un Neviro  criado en la isla Neviro. Al crecer se hizo navegante, y se sumó al grupo de expedicion para construir un puerto en el continente y residir allí. Durante la Construcción, los Urios llegaron para invadir. Debido a tantas muertes y asedios, se llegó a conocer como Puerto Calavera.
+
+Dorio era aventurero y valeroso.  Cuando llegó la guerra en la lucha perdio su brazo derecho. Cuando los Bárdalos ganaron la batalla, el lugar cambió el nombre a Puerto Victoria.
+
+Pero Dorio estaba amargado, y zarpó en un viaje para recuperar su brazo. sin éxito alguno, sin encontrar ninguno de los lugares y objetos legendarios que repararian su cuerpo, y volviendo a enterarse de que los Urios Comenzaron sus incursiones en el Oriente otra vez, y que tendría que participar en otra guerra... se detuvo un dia en el pueblo de Lesios, a tomar unos tragos para olvidar las penas. Y es aquí donde conoce a Rido.]]></Bio>
+		<Goals><![CDATA[Recuperar su Brazo derecho.]]></Goals>
+		<FullName><![CDATA[Dorio Neviro]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>14</ID>
+		<Title><![CDATA[Torepo]]></Title>
+		<Desc><![CDATA[Terrateniente Principal del Pueblo de Lesios]]></Desc>
+		<Notes><![CDATA[siempre le busca el beneficio a topo proyecto o acción que emprende. Incluso un favor.
+
+Desde que llegó a esa casa se ha apasionado por encontrar los secretos que la rodean.]]></Notes>
+		<SortOrder>14</SortOrder>
+		<Bio><![CDATA[Torepo era un comerciante de la Ciudad de Elios, vendia ropa y calzado. Cuando los Urios invadieron, perdió toda su mercancía, y tuvo que huir con el grupo dirigido por Gon Farole. Cruzando las montañas del Surco llegaron a Lesios donde levantaron un pequeño pueblo. 
+
+Ya existía en la costa una vieja casa abandonada. Fue Torepo quien la inspeccionó, y descubrió unas aves que se refugiaban allí y los bautizó Kíos, en honor al sonido que emitían. Cada 6 meses venían estas aves a poner sus huevos exactamente en esa casa. Torepo entonces decidio comercializar los Kíos que rapidamente se convirtieron en la principal forma de transporte de la época. Continuo ampliando la casa y su servidumbre, y comprando los terrenos circundantes, se convirtió en una persona muy adinerada, y llamó a su lugar el Rancho Cap, dice que fue en honor a la tablilla que estaba rota en frente de la vieja casa cuando llegó. Tenía inscrito Cap, pero era una palabra cortada.]]></Bio>
+		<Goals><![CDATA[Continuar con el status cuo que tiene.]]></Goals>
+		<FullName><![CDATA[Torepo Suezi]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>15</ID>
+		<Title><![CDATA[Argos]]></Title>
+		<SortOrder>15</SortOrder>
+		<AKA><![CDATA[El Navegante]]></AKA>
+		<Bio><![CDATA[Argos fue el único sobreviviente de la última batalla de la Guerra de los Esturios contra el Emperador. Esta batalla ocurrió en Yulostea. De los Esturios que fueron a la batalla ese dia fue el único sobreviviente. Pudo ver como Barrucán encerraba en un sueño profundo al emperador, y como los gigantes y los rúnari se elevaban sobre una isla al firmamento. Cuentan entonces que los Bardos sobrevivientes, dirigidos por Ura, se lanzaron al mar en un último intento por hacer hacer la guerra de nuevo al continente, Pero Argos los encontró en la costa, construyó una fortaleza y luchó contra ellos, hasta que pudieron expulsarlos de sus tierras. 
+
+Cuentan entonces que muchos trataron de llegar a la isla de Yulostea pero nadie la pudo llegar a encontrar. Que había en la isla que tanto lo querían? Contaban que en la isla estaba el mismísimo poder de Barrucán, un poder superior al del Emperador.
+
+Pero Argos, el único sobeviviente, nunca lo contó, escondió el mapa en lo profundo de su fortaleza,y nunca habló del tema. Combirtió su propia tumba en un sin fin de trampas para evitar que encontraran el mapa. El mapa fue un regalo de los gigantes confiado a él, que tenía no solo la ubicación de la isla de yulostea, sino la ubicación de los 4 fragmentos de la piedra del Sol.
+
+Argos tambien era buen pintor y los sucesos que vio a lo largo de su vida los fue pintando y llenó de cuadros su fortaleza.]]></Bio>
+		<FullName><![CDATA[Argos Pixel]]></FullName>
+	</CHARACTER>
+	</CHARACTERS>
+	<PROJECTNOTES>
+	<PROJECTNOTE>
+		<ID>1</ID>
+		<Title><![CDATA[¿Por qué los Urios le temen a los niños del Cielo?]]></Title>
+		<Desc><![CDATA[En los tiempos antiguos, Remsu, el antepasado de los Urios, se apoderó de toda la tierra del Aido, para que su pueblo, los Bardos, pudieran vivir cómodamente fuera del desierto. Es en este momento cuando dirige su ataque contra los Hunow, a la isla de Baiklás, los cuidadores de la piedra del Sol, que convirtieron la tierra en un paraíso, porque estos se negaron a ayudarle cuando quizo convirtir el desierto también en un paraíso. Fue cuando se descristalizó a uno de los niños. Este era Barrucán,quien furioso, forjó una espada, su pelo se levantó al cielo, se convirtio en blanco y sus ojos destellaban luz, y la piedra del sol también comenzó a reaccionar. Este niño masacró  a casi todos los seguidores de Remsu, los que quedaron, cuentan que vieron una isla elevarse por los cielos, con esos niños abordo, es por ello que les temen cuando ven a Ucaru y a Rido.
+
+]]></Desc>
+		<SortOrder>1</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>2</ID>
+		<Title><![CDATA[¿Solo hay dos niños del cielo en la historia?]]></Title>
+		<Desc><![CDATA[legalmente Hay 8 niños del cielo. Lo que pasa es que cuando fueron covertidos en niños los Rúnari (Dioses del Sol) fueron tambien cristalizados  y arrojados a la tierra. Los Hunows han tratado por siglos de romper los cristales. Es entonces en el tiempo de Remsu, cuando por fín logran abrir uno. Este fue Barrucán. Cuando este logró vencer a los Urios. Los Hunows sobrevivientes alteraron su composicion, se llevaron entonces por los aires, muy por encima de la cortina del viento la isla de baiklás, junto con los demás niños cristalizados. Aquí logran descristalizar a dos niños más, a Rido y Ucaru, y aquí empieza la historia.]]></Desc>
+		<SortOrder>2</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>4</ID>
+		<Title><![CDATA[Que hace que un niño del Cielo se convierta en un Iluminado (LightChild)?]]></Title>
+		<Desc><![CDATA[Cuando un niño del cielo comienza a recordar su pasado como Rúnari (como Dios del Sol), sus antiguos poderes comienzan a liberarse.
+Esto hace que todo su cuerpo e incluso su pelo se torne blanco. Existen cuatro transformaciones que puede aguantar el cuerpo mortal que se les otorgó en este mundo. Tristemente el cuerpo que tienen no aguantan todo el poder del Dios que habita en ellos, luego de la cuarta etapa mueren.]]></Desc>
+		<SortOrder>3</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>5</ID>
+		<Title><![CDATA[Reglas Gramaticales del Kortés]]></Title>
+		<Desc><![CDATA[Pei: hijo
+cuando se establece como hijo de alguien se toma el nombre del padre y se le pone pei al final, cambiando la vocal fuerte en el nombre por una U.
+ ejemplo: Hijo de Gon=Gunpei]]></Desc>
+		<SortOrder>4</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>6</ID>
+		<Title><![CDATA[¿Qué son los Frutas Ridots?]]></Title>
+		<Desc><![CDATA[Las frutas Ridots son nabos rojos que crecen en la playa y en otros lugares donde halla mucha concentración de sal. Son el  aloe vera de este mundo, es etremadamente curativo. En su viaje, Rido los arranca del suelo durante su viaje para recuperar vida.
+
+Al estilo de las frutas del suelo de super mario bros 2, que el tallo se ve en la superficie.]]></Desc>
+		<SortOrder>5</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>7</ID>
+		<Title><![CDATA[¿Qué es la Piedra del Sol?]]></Title>
+		<Desc><![CDATA[La piedra del Sol es un nexo entre el Sol y la Tierra que hace que el planeta se mantenga vivo y habitable. Si se reunen sus cuatro partes, el cielo se oscurecerá ocurrirá un eclipse total y y una luz conectará el sol con la tierra, y luego de esa linea de luz se abrirá una entrada triangular, que es el camino hacia el Sol. Pero hay que pagar un peaje... 100 almas. Se dice que quien llega al sol se convierte en el Rey del Universo, y tendrá tanto poder como para crear como destruir, por lo tanto cualquier deseo que tenga se hará realidad.]]></Desc>
+		<SortOrder>6</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>8</ID>
+		<Title><![CDATA[¿Qué pasó con los gigantes al principio de la historia?]]></Title>
+		<Desc><![CDATA[Los gigantes usaron gran parte de su energía vital para lograr liberar y despertar a Rido y Ucaru, por lo tanto gran parte de la historia se la pasan durmiendo, recuperando fuerzas.
+
+]]></Desc>
+		<SortOrder>7</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>9</ID>
+		<Title><![CDATA[Sociedad de los Mitrones]]></Title>
+		<Desc><![CDATA[Sociedad de los Mitrones. 
+
+Esta compuesta de tres clanes en general: los escabadores, los cazadores y los transportadores.
+
+Los Escabadores estan provistos de una membrana luminosa en la cabeza, pero debido al tiempo tambien se les a acortado la vista. Poseen tres dedos como todos los mitrones, pero estos se han alargado en sus manos y se han vuelto garras poderosas para excavar. Cumplían dos funciones principales: ampliar el nido y liberar a los zeves, las arañas de piedra que les sirven de alimento.
+
+Los cazadores son el grupo silencioso que vigila las excavaciones en espera de que  salgan los torelis, para cazarlos, ya que son bien escurridizos y tambien peligrosos, ya que si llegaran a picar a alguno, este se convertiria en piedra. Tienen una excelente vista y son veloces.
+
+El tercer grupo, los transportadores, son los únicos que tienen contacto con la superficie, son los que sacan todos los despedicios de las escabaciones y la basura a la superficie. Estos son estremadamente musculosos, e incluso hasta compiten en sacar las rocas cuando la arrojan a la distancia.
+
+Cada clan tiene un Tengue (jefe de trabajo o del clan) sobre los tres Tengues esta el Tatengue (jefe de jefes).
+
+Para la llegada de Rido el Tatengue era Osamu, capturado y humillado por los Urios, para obligarlos a hacer trabajos forzados.
+
+Los Mitrones son Descendientes de los Antiguos Esturios. Cuando Remsu invadió las tierras, fue entonces cuando un grupo de Esturios fue mandado a las montañas del Surco, donde no crecía ni un cactus. Su antepasado Mitro fue quien afirmó que entodo lugar hay comida: si no hay en la tierra, habra en el cielo. si no hay alli. entonces esta debajo de la tierra. Cabó en el suelo y encontró un zeves. Desde entonces han sido su alimento.
+
+En lo personal, los mitrones se preocupaban mucho por su familia. Poseían gran coordinación en los trabajos, y consideraban cada vida tan valiosa como tada la tribu.
+]]></Desc>
+		<SortOrder>8</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>10</ID>
+		<Title><![CDATA[¿Dónde está la piedra del Sol?]]></Title>
+		<Desc><![CDATA[La Piedra del Sol, luego de que Remsu y los Bardos masacraran a los Hunow, los cuatro de ellos restantes rompieron la piedra en 4 y la esparcieron por toda la tierra del Aido, dejando como sus protectores a 4 de los Esturios, mientras que ellos elevaron la isla de Baiklás por los Cielos, para salvar a los niños del cielo y continuar tratando de liberarlos.]]></Desc>
+		<SortOrder>9</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>11</ID>
+		<Title><![CDATA[Los Gigantes, La Piedra y el Emperador]]></Title>
+		<Desc><![CDATA[Los Bardos se apoderan del Sol y convierten a los Rúnari en niños. Los Hunow en deseperacion hulleron a la tierra junto con los esturios. Tres Bardos arrepentidos de los hechos de sus amos tambien bajaron con ellos. pero al pasar a este mundo su composición cambió. Los Rúnari se cristalizaron. Los Hunow se conviertieron en máquinas y los Esturios perdieron su fortaleza. Mientras que los bardos no fueron afectados. 
+
+Los Hunow centraron sus esfuerzos en descristalizar a los niños. Es cuando encuentran una piedra que conecta con el reino del Sol. No tardó mucho en que se extendiera la legenda de que un artefacto en el lejano mar... en las tierras de Yulostea, se encontraba una piedra que abria el camino de nuevo al sol. Aqui entra en juego Remsu, quien debido a la pesima vida que lleva su clan en el desierto, emprende un largo viaje en su búsqueda, para llevar a su clan a mejores tierras, de regreso al sol. En una tormenta naufragó en la isla. Sabía que no le permitirían usar la piedra, asi que la robó. Pero no robó la real, sino un pequeño experimento de los Hunow, una copia de la original, La Piedra de la Luna. El cielo se oscureció y cuatro gigantes salieron de los extremos de la tierra, y sujetaron la piedra cada uno por un extremo, y fueron abriendo lo que parecia una cuarteada en el cielo hacia otro mundo. Remsu pues se apoderó fue a la luna y se apoderó de la piedra que rechazaron los bardos.]]></Desc>
+		<SortOrder>10</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>12</ID>
+		<Title><![CDATA[Los Rúnari  y la Caida del Reino del Sol]]></Title>
+		<Desc><![CDATA[Hace mucho tiempo los Rúnari, los Dioses,  decidieron crear, si, llenar el Universo Kaio de mundos. Para esto crearon una tropa de seres que le ayudarían a su labor. Sus asistentes, los Hunows, eran sus ayudantes en el diseño y planeación de proyectos. Los Palepas, aves, eran los mensajeros y supervisadores de las labores de construccion. Los Bardos eran los constructores. Y en la parte mas baja de la cadena estaban los Esturios. Pequeños seres que recogian la basura de los mundos.
+
+Primero crearon el Maravilloso y sorpendente Sol, un mundo lleno de luz que ilumina todo el universo, y fuente de poder infinita. Luego crearon el Cielo, un lugar lleno de viento fresco y nubes de agua. Luego por encima de ellos creo las Estrellas. Un lugar lleno de pequeños mundos y pequeños soles. luego crearon la Luna, el mar de la tranquilidad, el silencio y la oscuridad. y Para coronar su creacion formaron la Tierra,un gigantesco mundo que procreara vida. Este mundo fue el que llevó mas trabajo de hacer por  sus delicados acabados. Todos estaban cansados. Y los Dioses dieron la sorpresa. Los mundos que crearon son los mundos donde viviran sus siervos. A los Hunows dio las estrellas, para que fueran un dios que cada pequeño mundo. A los Palepas dio el Cielo, para que volaran con libertad sin ataduras, disfrutaran del viento y descanzaran sobre las nubes. La Luna los dioses la dieron a los Bardos. Los bardos esperaban que la tierra fuera dada a ellos. Pero les repugnó cuando escucharon que los rúnari la entregaron a los esturios, los recogedesechos. Desde ese momento le abrigaron odio a los supremos. pero los dioses los amaban y su regalo para ellos era: convertir a uno de ellos en dios y darle a todos los que quisieran su residencia eterna en el sol. Para esto entre todos prepararon una pequeña piedra luminosa que combertiria a un bardo en Dios. Esto le molestó mas. pensaban que no valoraban su trabajo, asi que cuando le entregaron la piedra y los dioses le dijeron que ese era su lugar de descanzo.  Descontentos propusieron a todos los habitantes de el Sol hacerles un banquete, se conocio como El banquete del peregrinaje. Pero en vez de darles el agua bendita de los Dioses, brindaron las Aguas negras de la luna. Causando que los dioses se convirtieran en mortales. 
+
+Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdieron su fuerza y los esturios se convirtieron en humanos.  Los Bardos se volvieron dioses y los hunows hulleron con todos los demás hacia la tierra. En eso algunos bardos calleron tambien a la tierra. Con respecta a la piedra que los dioses crearon para ellos, los mismos bardos la arrojaron a la luna y dictó que toda la basura la arrojaran a ese mundo.]]></Desc>
+		<SortOrder>11</SortOrder>
+	</PROJECTNOTE>
+	</PROJECTNOTES>
+	<PROJECTVARS>
+	</PROJECTVARS>
+	<PROJECTEXPS>
+	</PROJECTEXPS>
+	<PROJECTBOOKS>
+	</PROJECTBOOKS>
+	<PROJECTPARTS>
+	</PROJECTPARTS>
+	<SCENES>
+	<SCENE>
+		<ID>1</ID>
+		<Title><![CDATA[Forma: Juego]]></Title>
+		<RTFFile><![CDATA[RTF_00001.rtf]]></RTFFile>
+		<BelongsToChID>2</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1</WordCount>
+		<LetterCount>8</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>2</ID>
+		<Title><![CDATA[Concepto Previo: Origenes del Proyecto]]></Title>
+		<RTFFile><![CDATA[RTF_00002.rtf]]></RTFFile>
+		<BelongsToChID>7</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>404</WordCount>
+		<LetterCount>2155</LetterCount>
+		<Characters>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>3</ID>
+		<Title><![CDATA[SkyChild: idea General de la Historia]]></Title>
+		<Desc><![CDATA[hola]]></Desc>
+		<RTFFile><![CDATA[RTF_00003.rtf]]></RTFFile>
+		<BelongsToChID>7</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>213</WordCount>
+		<LetterCount>1209</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>4</ID>
+		<Title><![CDATA[SISTEMA DE MOVIMIENTO]]></Title>
+		<RTFFile><![CDATA[RTF_00004.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>106</WordCount>
+		<LetterCount>633</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>5</ID>
+		<Title><![CDATA[1-Introducción]]></Title>
+		<Desc><![CDATA[En esta primera escena iniciará el videojuego. Una sucesión de cortas imágenes y pocos diálogos que pretende introducir inmediatamente el propósito del juego.]]></Desc>
+		<Outcome><![CDATA[Ambos niños caen a la superficie terrestre.]]></Outcome>
+		<Goal><![CDATA[Introducir la historia del juego muy brevemente.]]></Goal>
+		<Conflict><![CDATA[ Los niños del Cielo quieren llegar al sol.]]></Conflict>
+		<RTFFile><![CDATA[RTF_00005.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>10</Field1>
+		<Field2>5</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>92</WordCount>
+		<LetterCount>523</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+			<CharID>1</CharID>
+			<CharID>2</CharID>
+		</Characters>
+		<Locations>
+			<LocID>3</LocID>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>6</ID>
+		<Title><![CDATA[2-Hacia las Montañas]]></Title>
+		<Desc><![CDATA[Se pretende introducir al niño del cielo. Conocer algunos personajes y además como es su meta de encontrar a su hermano.]]></Desc>
+		<Outcome><![CDATA[encuentra el pueblo de los Mitrones]]></Outcome>
+		<Goal><![CDATA[Entrar a la Montaña del Surco]]></Goal>
+		<Conflict><![CDATA[Encontrar pasadizo entre los arbustos]]></Conflict>
+		<RTFFile><![CDATA[RTF_00006.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>358</WordCount>
+		<LetterCount>1972</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+			<CharID>1</CharID>
+			<CharID>3</CharID>
+			<CharID>9</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>7</ID>
+		<Title><![CDATA[3-Los Mitrones y El Anciano Guerrero]]></Title>
+		<RTFFile><![CDATA[RTF_00007.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>396</WordCount>
+		<LetterCount>2319</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>8</ID>
+		<Title><![CDATA[Anuncio Publicitario]]></Title>
+		<RTFFile><![CDATA[RTF_00008.rtf]]></RTFFile>
+		<BelongsToChID>9</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>236</WordCount>
+		<LetterCount>1278</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>9</ID>
+		<Title><![CDATA[SISTEMA DE ATAQUE]]></Title>
+		<RTFFile><![CDATA[RTF_00009.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>179</WordCount>
+		<LetterCount>1097</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>10</ID>
+		<Title><![CDATA[SISTEMA DE GUARDADO]]></Title>
+		<RTFFile><![CDATA[RTF_00010.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>92</WordCount>
+		<LetterCount>509</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>11</ID>
+		<Title><![CDATA[SISTEMA DE MULTIIDIOMAS]]></Title>
+		<RTFFile><![CDATA[RTF_00011.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1</WordCount>
+		<LetterCount>2</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>12</ID>
+		<Title><![CDATA[DISEÑO DEL HUD]]></Title>
+		<RTFFile><![CDATA[RTF_00012.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1</WordCount>
+		<LetterCount>2</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>13</ID>
+		<Title><![CDATA[ITEMS: BACULO CORTA ROCAS]]></Title>
+		<RTFFile><![CDATA[RTF_00013.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>131</WordCount>
+		<LetterCount>787</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>14</ID>
+		<Title><![CDATA[MERCADO NEGRO]]></Title>
+		<RTFFile><![CDATA[RTF_00015.rtf]]></RTFFile>
+		<BelongsToChID>10</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>44</WordCount>
+		<LetterCount>286</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>15</ID>
+		<Title><![CDATA[4-La Gran Roca y los Urios]]></Title>
+		<RTFFile><![CDATA[RTF_00016.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>612</WordCount>
+		<LetterCount>3500</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>16</ID>
+		<Title><![CDATA[DINERO VIRTUAL POR CLICKS BANNERS]]></Title>
+		<RTFFile><![CDATA[RTF_00017.rtf]]></RTFFile>
+		<BelongsToChID>10</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>101</WordCount>
+		<LetterCount>579</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>17</ID>
+		<Title><![CDATA[TRES VERSIONES: MULTIJUGADOR, DE PAGO Y CON PUBLICIDAD]]></Title>
+		<RTFFile><![CDATA[RTF_00018.rtf]]></RTFFile>
+		<BelongsToChID>10</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>242</WordCount>
+		<LetterCount>1531</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>18</ID>
+		<Title><![CDATA[REGLAS DEL JUEGO]]></Title>
+		<RTFFile><![CDATA[RTF_00019.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>1</WordCount>
+		<LetterCount>2</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>19</ID>
+		<Title><![CDATA[5-Escape de la montaña y la chica misteriosa]]></Title>
+		<RTFFile><![CDATA[RTF_00020.rtf]]></RTFFile>
+		<BelongsToChID>6</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>250</WordCount>
+		<LetterCount>1400</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>20</ID>
+		<Title><![CDATA[1-Dorio, el Mapa y la Mansión Cap]]></Title>
+		<RTFFile><![CDATA[RTF_00021.rtf]]></RTFFile>
+		<BelongsToChID>8</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>678</WordCount>
+		<LetterCount>3730</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+			<CharID>13</CharID>
+			<CharID>1</CharID>
+			<CharID>14</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>21</ID>
+		<Title><![CDATA[ITEMS: LATIGO EXTREMO]]></Title>
+		<RTFFile><![CDATA[RTF_00022.rtf]]></RTFFile>
+		<BelongsToChID>1</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>107</WordCount>
+		<LetterCount>594</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>22</ID>
+		<Title><![CDATA[2-La Fortaleza Subterránea del Navegante]]></Title>
+		<RTFFile><![CDATA[RTF_00023.rtf]]></RTFFile>
+		<BelongsToChID>8</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>342</WordCount>
+		<LetterCount>1995</LetterCount>
+		<Characters>
+			<CharID>8</CharID>
+			<CharID>15</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	</SCENES>
+	<CHAPTERS>
+	<CHAPTER>
+		<ID>7</ID>
+		<Title><![CDATA[***CONCEPTO***]]></Title>
+		<SortOrder>1</SortOrder>
+		<Type>1</Type>
+		<Scenes>
+			<ScID>2</ScID>
+			<ScID>3</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>2</ID>
+		<Title><![CDATA[***FORMA***]]></Title>
+		<SortOrder>2</SortOrder>
+		<Type>1</Type>
+		<Scenes>
+			<ScID>1</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>1</ID>
+		<Title><![CDATA[***MECÁNICAS***]]></Title>
+		<SortOrder>3</SortOrder>
+		<Type>1</Type>
+		<Scenes>
+			<ScID>4</ScID>
+			<ScID>9</ScID>
+			<ScID>10</ScID>
+			<ScID>11</ScID>
+			<ScID>18</ScID>
+			<ScID>12</ScID>
+			<ScID>13</ScID>
+			<ScID>21</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>3</ID>
+		<Title><![CDATA[***CONTEXTO***]]></Title>
+		<SortOrder>4</SortOrder>
+		<Type>1</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>4</ID>
+		<Title><![CDATA[***ARTE***]]></Title>
+		<SortOrder>5</SortOrder>
+		<Type>1</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>5</ID>
+		<Title><![CDATA[***TARGET***]]></Title>
+		<SortOrder>6</SortOrder>
+		<Type>1</Type>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>6</ID>
+		<Title><![CDATA[Intro]]></Title>
+		<SortOrder>7</SortOrder>
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>5</ScID>
+			<ScID>6</ScID>
+			<ScID>7</ScID>
+			<ScID>15</ScID>
+			<ScID>19</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>8</ID>
+		<Title><![CDATA[La Isla de Yulostea]]></Title>
+		<Desc><![CDATA[Las aventuras de Rido por obtener la espada legendaria contra el mal.]]></Desc>
+		<SortOrder>8</SortOrder>
+		<SectionStart>-1</SectionStart>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>20</ScID>
+			<ScID>22</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>9</ID>
+		<Title><![CDATA[***PUBLICACION***]]></Title>
+		<SortOrder>9</SortOrder>
+		<Type>1</Type>
+		<Scenes>
+			<ScID>8</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>10</ID>
+		<Title><![CDATA[***COMERCIALIZACION***]]></Title>
+		<SortOrder>10</SortOrder>
+		<Type>1</Type>
+		<Scenes>
+			<ScID>14</ScID>
+			<ScID>16</ScID>
+			<ScID>17</ScID>
+		</Scenes>
+	</CHAPTER>
+	</CHAPTERS>
+	<WCLog>
+	<WC>
+		<Date>2014-02-28</Date>
+		<Count>284</Count>
+		<TotalCount>284</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-01</Date>
+		<Count>0</Count>
+		<TotalCount>405</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-02</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-07</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-08</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-11</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-12</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-13</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-15</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-19</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-20</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-21</Date>
+		<Count>0</Count>
+		<TotalCount>629</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-22</Date>
+		<Count>30</Count>
+		<TotalCount>659</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-23</Date>
+		<Count>126</Count>
+		<TotalCount>755</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-24</Date>
+		<Count>450</Count>
+		<TotalCount>1079</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-25</Date>
+		<Count>450</Count>
+		<TotalCount>1079</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-03-31</Date>
+		<Count>450</Count>
+		<TotalCount>1159</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-01</Date>
+		<Count>482</Count>
+		<TotalCount>1419</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-02</Date>
+		<Count>482</Count>
+		<TotalCount>1446</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-03</Date>
+		<Count>482</Count>
+		<TotalCount>1598</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-07</Date>
+		<Count>482</Count>
+		<TotalCount>1598</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-08</Date>
+		<Count>482</Count>
+		<TotalCount>1598</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-12</Date>
+		<Count>666</Count>
+		<TotalCount>1913</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-13</Date>
+		<Count>666</Count>
+		<TotalCount>1972</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-17</Date>
+		<Count>861</Count>
+		<TotalCount>2602</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-18</Date>
+		<Count>861</Count>
+		<TotalCount>2602</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-19</Date>
+		<Count>965</Count>
+		<TotalCount>2706</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-20</Date>
+		<Count>965</Count>
+		<TotalCount>2706</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-21</Date>
+		<Count>965</Count>
+		<TotalCount>2706</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-04-24</Date>
+		<Count>971</Count>
+		<TotalCount>2712</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-03</Date>
+		<Count>971</Count>
+		<TotalCount>2712</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-04</Date>
+		<Count>1636</Count>
+		<TotalCount>3385</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-05</Date>
+		<Count>1637</Count>
+		<TotalCount>3386</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-06</Date>
+		<Count>1637</Count>
+		<TotalCount>3386</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-07</Date>
+		<Count>1749</Count>
+		<TotalCount>3498</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-09</Date>
+		<Count>1749</Count>
+		<TotalCount>3498</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-10</Date>
+		<Count>1749</Count>
+		<TotalCount>3498</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-14</Date>
+		<Count>1814</Count>
+		<TotalCount>3563</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-15</Date>
+		<Count>1814</Count>
+		<TotalCount>3563</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-20</Date>
+		<Count>1936</Count>
+		<TotalCount>3685</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-21</Date>
+		<Count>2012</Count>
+		<TotalCount>3761</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-23</Date>
+		<Count>2118</Count>
+		<TotalCount>3867</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-26</Date>
+		<Count>2118</Count>
+		<TotalCount>3867</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-28</Date>
+		<Count>2118</Count>
+		<TotalCount>3867</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-29</Date>
+		<Count>2122</Count>
+		<TotalCount>3871</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-05-31</Date>
+		<Count>2386</Count>
+		<TotalCount>4242</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-06-01</Date>
+		<Count>2400</Count>
+		<TotalCount>4256</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-06-02</Date>
+		<Count>2468</Count>
+		<TotalCount>4324</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-06-03</Date>
+		<Count>2505</Count>
+		<TotalCount>4361</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-06-04</Date>
+		<Count>2505</Count>
+		<TotalCount>4361</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-06-10</Date>
+		<Count>2505</Count>
+		<TotalCount>4361</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-05</Date>
+		<Count>2505</Count>
+		<TotalCount>4361</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-06</Date>
+		<Count>2505</Count>
+		<TotalCount>4361</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-10</Date>
+		<Count>2600</Count>
+		<TotalCount>4456</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-11</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-14</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-07-20</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-03</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-04</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-05</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-09</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-10</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-11</Date>
+		<Count>2669</Count>
+		<TotalCount>4525</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-24</Date>
+		<Count>2669</Count>
+		<TotalCount>4528</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-08-25</Date>
+		<Count>2669</Count>
+		<TotalCount>4528</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-09-01</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-09-04</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-09-23</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-10-19</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-11-07</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-11-10</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-11-14</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-11-30</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	</WCLog>
+</YWRITER5>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+	<CHARACTERS>
+	<CHARACTER>
+		<ID>1</ID>
+		<Title><![CDATA[Rido]]></Title>
+		<Desc><![CDATA[Personaje principal del videojuego.]]></Desc>
+		<Tags><![CDATA[Rido, Main Character]]></Tags>
+		<Notes><![CDATA[Tiene un fuerte deseo de llegar al sol al igual que su hermano.
+No Recuerda nada de su pasado.
+Imágenes extrañas le atormentan en sus sueños.]]></Notes>
+		<SortOrder>1</SortOrder>
+		<AKA><![CDATA[Uranko (nombre cuando era deidad)]]></AKA>
+		<Bio><![CDATA[Uranko era uno de los Antiguos dioses conocidos como Rúnari que habitaban el Reino del Sol en el pasado. Su jurisdicción era la Justicia.
+
+Cuando los Bardos se sublevaron, convirtieron a los Rúnari en niños incluido Uranko, los cristalizaron y los enviaron a la tierra junto a las demás razas que habitaban el Sol.
+
+Luego de 400 años durmiendo, por fin los 4 gigantes en la isla flotante del Elipsio logran descristalizar a dos de los niños, este es Uranko y el otro es Karak. Y como han perdido la memoria les ponen nuevos nombres, los llaman Rido y Ucaru respectivamente, y evitan a toda costa hablarse sobre su pasado a los niños y de mostrarle a los demás niños cristalizados, temiendo que les pasara lo mismo que a Barrucán.
+
+Los gigantes le tienen estrictamente prohibo a Rido y Ucaru bajar a las tierras de la superficie. Pero estos dos tienen un fuerte deseo inexplicable de ir al sol, que ellos mismos no logran entender. Rido considera injusto abandonar a los gigantes, pero su hermano Ucaru le dice que regresaran inmediatamente que es solo para obtener las respuestas que los gigantes les escultan. al final Rido se termina de convencer. Construyen una esfera de mantio (manterial resistente a las radiaciones solares) y construyen un tirapiedras gigante, y ponen la esfera. Se adentran y luego despegan. Error de cálculos dicen y que por esto caen a la superficie terrestre.
+
+
+
+
+]]></Bio>
+		<Goals><![CDATA[Su objetivo principal es rescatar a su hermano Ucaru de las manos de los Urios.
+
+]]></Goals>
+		<FullName><![CDATA[Rido Gunpei]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>2</ID>
+		<Title><![CDATA[Ucaru]]></Title>
+		<Notes><![CDATA[Impulsivo y testarudo.]]></Notes>
+		<SortOrder>2</SortOrder>
+		<AKA><![CDATA[Karak (antes como deidad)]]></AKA>
+		<Goals><![CDATA[Su objetivo principal es llegar al sol, sin importarle que medio usar. ]]></Goals>
+		<FullName><![CDATA[Ucaru Uro]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>7</ID>
+		<Title><![CDATA[Ura]]></Title>
+		<Desc><![CDATA[Esposa de Remsu. Dio origen al nombre de toso el pueblo Urio.]]></Desc>
+		<SortOrder>3</SortOrder>
+		<FullName><![CDATA[Uria Magen]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>5</ID>
+		<Title><![CDATA[Remsu]]></Title>
+		<Desc><![CDATA[Antagonista prinicpal]]></Desc>
+		<Tags><![CDATA[Urios]]></Tags>
+		<SortOrder>4</SortOrder>
+		<Goals><![CDATA[Apoderarse del Aido para darle esa tierra a los "hijos de Ura" (los Urios) y por fin sean felices.
+
+Tambien busca la Piedra del Sol para descristalizar a su esposa Ura Magen.]]></Goals>
+		<FullName><![CDATA[Remsu Merris]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>6</ID>
+		<Title><![CDATA[Sayros]]></Title>
+		<Desc><![CDATA[General de los Ejércitos Urios]]></Desc>
+		<Tags><![CDATA[Urio]]></Tags>
+		<SortOrder>5</SortOrder>
+		<FullName><![CDATA[Sayros Uro]]></FullName>
+		<Major>-1</Major>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>3</ID>
+		<Title><![CDATA[Abuelo Gon]]></Title>
+		<SortOrder>6</SortOrder>
+		<FullName><![CDATA[Gon Farole]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>4</ID>
+		<Title><![CDATA[Eli Farole]]></Title>
+		<Notes><![CDATA[Hermana desaparecida de Gon Farole]]></Notes>
+		<SortOrder>7</SortOrder>
+		<FullName><![CDATA[Elisanna Farole]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>8</ID>
+		<Title><![CDATA[Narrador]]></Title>
+		<SortOrder>8</SortOrder>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>9</ID>
+		<Title><![CDATA[Ruro]]></Title>
+		<Desc><![CDATA[Niño huérfano que vive con el Abuelo Gon.]]></Desc>
+		<SortOrder>9</SortOrder>
+		<Bio><![CDATA[Ruro vivía en el Pueblo de Elios, en parte céntrica del continente, un pueblo agrícola y dedicado al ganado, desprovisto de murallas, pero hace siglos habían construido el Puente de Zunken para conectar la parte Oriental del contienente con la Occidental através del gran río Travía. 
+
+Cuando Ruro tenía tan solo 4 años Los Urios llegaron por la costa Oriental del continente. Invadieron las montañas del Cinto al norte y y expulsaron a todos los Bárdalos de allí, colocando en su cima su Fortaleza Principal. Subyugaron a los Bárdalos en el Desierto, Les Arrevataron la Ciudad Portuaria Xeros de los Neviros en el continente, faltando solamente por conquistar la isla Neviro en el Mar. Subyugaron tambien a los Argonios en el Bosque del Kario entre las montañas del Arco. Entonces fue cuando Cruzaron el río y trataron de subyugar el Pueblo de Elios. Pero Gon y unos pocos se alzaron en armas. La pequeña revuelta de Elios no tuvo éxito. Y Sayros,el general de los Urios, cambió su política de subyugación a masacre, arrasó con el pueblo y con el padre de Ruro. Gon y algunos restantes huyeron, pero los Urios los persiguieron. Pero al Adentrarse a las Montañas del Surco los perdieron. Así llegaron a una costa secreta entre los montes y fundaron el pequeño Pueblo de Lesios.
+
+Ruro siente gran odio por los Urios, tiene el sueño de algún día acabar con todos ellos.
+
+En cuanto a lo demás de la invasión, La pequeña Revuelta causó que los Argonios, el pueblo completo se levantara en armas. Pero los Urios en concecuencia convirtieron el bosque del Kario en un pantano, y los argonios fueron muriendo poco a poco. Los Neviros tambien se levantaron en Armas dos largos años trataron de recuperar el puerto de Xeros. Aquí es cuando los Bárdalos se levantan en Armas para ayudar a sus amigos los Neviros. Estos mismo rompen el puente de Zunken para dejar aislados a los Urios que se adentraron al Occidente. Así logran liberarse del yugo de los Urios por un tiempo, y el Puerto Xeros se le cambia el nombre a Puerto Victoria, porque es el primer lugar donde se venció a los Urios. En el Puerto Entonces se comenzó a acoger a los Argonios infectados en el pantano para ser tratados.
+
+En cuanto al Occidente los Bárdalos trataron de tomar Ciudad Riruna del pueblo de los Runas, pero sus Altas y gruesas murallas al igual que sus aguas profundas e infestadas de bestias peligrosas, no pudieron apoderarse de ella, aunque lo siguieron intentando por dos años más. Luego se Adentraron al Bosque Bumbei para tomar el lugar y masacrar a los Doras, pero el confuso bosque le consumió mucho tiempo. Luego invaden Ciudad Corsau de los Runas en la península Rienbou al occidente, y masacran al pueblo.
+
+luego de Cuatro años invaden a los mitrones en las montañas del Surco y los subyugan para obligarlos a construir un tunel que conecte el occidente  con el oriente debajo de la tierra, y así recuperar el poder perdido en esas tierras.
+
+Es entonces cuando Ruro encuentra a Rido en el mar.]]></Bio>
+		<FullName><![CDATA[Ruro Gunpei]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>10</ID>
+		<Title><![CDATA[Camus]]></Title>
+		<Desc><![CDATA[Jefe de la División de los Cazadores entre los mitrones.]]></Desc>
+		<SortOrder>10</SortOrder>
+		<FullName><![CDATA[Tengue Camus]]></FullName>
+	</CHARACTER>
+	<CHARACTER>
+		<ID>11</ID>
+		<Title><![CDATA[Marcus]]></Title>
+		<Desc><![CDATA[Dirigente absoluto de toda la tribu de los Mitrones, jefe de los tres Tengues.]]></Desc>
+		<SortOrder>11</SortOrder>
+		<FullName><![CDATA[Tatengue Marcus]]></FullName>
+	</CHARACTER>
+	</CHARACTERS>
