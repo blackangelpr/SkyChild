@@ -24,12 +24,12 @@
 		<HtmlSceneDivider>%23</HtmlSceneDivider>
 		<HtmlEncoding></HtmlEncoding>
 		<HtmlUnicode>0</HtmlUnicode>
-		<LastFullBackup>2014-11-30</LastFullBackup>
+		<LastFullBackup>2014-12-08</LastFullBackup>
 		<WordTargetStartDate>1899-12-30</WordTargetStartDate>
 		<WordTargetEndDate>1899-12-30</WordTargetEndDate>
 		<MRUSpecificDate>1899-12-30</MRUSpecificDate>
 		<MRUSpecificTime>00:00</MRUSpecificTime>
-		<LastViewedScID>4</LastViewedScID>
+		<LastViewedScID>22</LastViewedScID>
 		<DeadlineDate1>2014-03-29</DeadlineDate1>
 		<DeadlineDate2>2014-04-28</DeadlineDate2>
 		<DeadlineDate3>2014-05-28</DeadlineDate3>
@@ -387,6 +387,17 @@ Primero crearon el Maravilloso y sorpendente Sol, un mundo lleno de luz que ilum
 
 Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdieron su fuerza y los esturios se convirtieron en humanos.  Los Bardos se volvieron dioses y los hunows hulleron con todos los demás hacia la tierra. En eso algunos bardos calleron tambien a la tierra. Con respecta a la piedra que los dioses crearon para ellos, los mismos bardos la arrojaron a la luna y dictó que toda la basura la arrojaran a ese mundo.]]></Desc>
 		<SortOrder>11</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>13</ID>
+		<Title><![CDATA[Conclusion de la Historia]]></Title>
+		<Desc><![CDATA[Al final, Ucaru decide atrapar al emperador y encerrarlo en el reino del sol.]]></Desc>
+		<SortOrder>12</SortOrder>
+	</PROJECTNOTE>
+	<PROJECTNOTE>
+		<ID>14</ID>
+		<Title><![CDATA[nuevo concepto del emperador y los niños del cielo]]></Title>
+		<Desc><![CDATA[Cuando Remsu decide ]]></Desc>
 	</PROJECTNOTE>
 	</PROJECTNOTES>
 	<PROJECTVARS>
@@ -845,11 +856,51 @@ Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdier
 		<Field3>1</Field3>
 		<Field4>1</Field4>
 		<Status>1</Status>
-		<WordCount>342</WordCount>
-		<LetterCount>1995</LetterCount>
+		<WordCount>417</WordCount>
+		<LetterCount>2437</LetterCount>
 		<Characters>
 			<CharID>8</CharID>
 			<CharID>15</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>23</ID>
+		<Title><![CDATA[El Adiós del Héroe]]></Title>
+		<RTFFile><![CDATA[RTF_00025.rtf]]></RTFFile>
+		<BelongsToChID>11</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>0</WordCount>
+		<LetterCount>0</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
+		</Characters>
+		<Locations>
+		</Locations>
+		<Items>
+		</Items>
+	</SCENE>
+	<SCENE>
+		<ID>24</ID>
+		<Title><![CDATA[3-Yulostea]]></Title>
+		<RTFFile><![CDATA[RTF_00026.rtf]]></RTFFile>
+		<BelongsToChID>8</BelongsToChID>
+		<Field1>1</Field1>
+		<Field2>1</Field2>
+		<Field3>1</Field3>
+		<Field4>1</Field4>
+		<Status>1</Status>
+		<WordCount>32</WordCount>
+		<LetterCount>184</LetterCount>
+		<Characters>
+			<CharID>1</CharID>
 		</Characters>
 		<Locations>
 		</Locations>
@@ -935,12 +986,22 @@ Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdier
 		<Scenes>
 			<ScID>20</ScID>
 			<ScID>22</ScID>
+			<ScID>24</ScID>
+		</Scenes>
+	</CHAPTER>
+	<CHAPTER>
+		<ID>11</ID>
+		<Title><![CDATA[Final]]></Title>
+		<SortOrder>9</SortOrder>
+		<Type>0</Type>
+		<Scenes>
+			<ScID>23</ScID>
 		</Scenes>
 	</CHAPTER>
 	<CHAPTER>
 		<ID>9</ID>
 		<Title><![CDATA[***PUBLICACION***]]></Title>
-		<SortOrder>9</SortOrder>
+		<SortOrder>10</SortOrder>
 		<Type>1</Type>
 		<Scenes>
 			<ScID>8</ScID>
@@ -949,7 +1010,7 @@ Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdier
 	<CHAPTER>
 		<ID>10</ID>
 		<Title><![CDATA[***COMERCIALIZACION***]]></Title>
-		<SortOrder>10</SortOrder>
+		<SortOrder>11</SortOrder>
 		<Type>1</Type>
 		<Scenes>
 			<ScID>14</ScID>
@@ -1323,6 +1384,31 @@ Los Rúnari se convirtieron en niños. Los Hunows en máquinas. Los Palepas perdier
 		<Date>2014-11-30</Date>
 		<Count>2728</Count>
 		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-12-02</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-12-04</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-12-05</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-12-08</Date>
+		<Count>2728</Count>
+		<TotalCount>4587</TotalCount>
+	</WC>
+	<WC>
+		<Date>2014-12-09</Date>
+		<Count>2835</Count>
+		<TotalCount>4694</TotalCount>
 	</WC>
 	</WCLog>
 </YWRITER5>

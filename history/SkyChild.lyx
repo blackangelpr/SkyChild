@@ -2,7 +2,7 @@
 \lyxformat 413
 \begin_document
 \begin_header
-\textclass memoir
+\textclass book
 \begin_preamble
 
 \settrimmedsize{8in}{5.25in}{*}
@@ -53,7 +53,7 @@
 \paperfontsize 11
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize a4paper
 \use_geometry false
 \use_amsmath 1
 \use_esint 1
@@ -63,7 +63,7 @@
 \use_bibtopic false
 \use_indices false
 \paperorientation portrait
-\suppress_date false
+\suppress_date true
 \use_refstyle 0
 \index Index
 \shortcut idx
@@ -76,7 +76,7 @@
 \quotes_language english
 \papercolumns 1
 \papersides 2
-\paperpagestyle book
+\paperpagestyle default
 \tracking_changes false
 \output_changes false
 \html_math_output 0
@@ -87,6 +87,7 @@
 \begin_body
 
 \begin_layout Standard
+\noindent
 El proyecto SkyChild tiene su origen en un libro que escribí en el 2012,
  
 \begin_inset Quotes eld
@@ -110,6 +111,7 @@ La Estocada Final
 \end_layout
 
 \begin_layout Standard
+\noindent
 Es curioso el transcurso de como surge esta idea.
  Desde pequeño crecí jugando Super Mario Bros, Lion King, Ninja Gaiden e
  incluso bucky O`hare.
@@ -119,6 +121,7 @@ Es curioso el transcurso de como surge esta idea.
 \end_layout
 
 \begin_layout Standard
+\noindent
 La saga de Zelda nos cuenta la historia la princesa Zelda, la cual es secuestrad
 a por el malvado Ganon que quiere apoderarse de la Trifuerza, y dominar
  el mundo, y de como el joven Link con su espada y su escudo debe salvar
@@ -138,6 +141,7 @@ a por el malvado Ganon que quiere apoderarse de la Trifuerza, y dominar
 \end_layout
 
 \begin_layout Standard
+\noindent
 El Libro 
 \begin_inset Quotes eld
 \end_inset
@@ -159,6 +163,7 @@ La Llave y la Espada
 \end_layout
 
 \begin_layout Standard
+\noindent
 
 \emph on
 SkyChild
@@ -176,6 +181,7 @@ niños del cielo
 \end_layout
 
 \begin_layout Standard
+\noindent
 SkyChild narra la historia de dos niños: Rido (el mayor) y Ucaru, hermanos,
  que vivían en la isla flotante El Elipsio.
  Ambos tenían el deseo de llegar al sol.
@@ -186,6 +192,7 @@ SkyChild narra la historia de dos niños: Rido (el mayor) y Ucaru, hermanos,
 \end_layout
 
 \begin_layout Standard
+\noindent
 En la superficie, un pueblo conocido como los Urios están invadiendo toda
  la tierra conocida como el Aido, en una lucha por recuperar según ellos
  la tierra de sus antepasados.
@@ -211,41 +218,49 @@ niños del cielo
  para traer paz a su tumba.
 \end_layout
 
-\begin_layout Chapter
+\begin_layout Standard
+\noindent
 Intro
 \end_layout
 
 \begin_layout Standard
+\noindent
 Más allá de las nubes se eleva una isla en el Cielo.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Dos hermanos caminaron sobre esta tierra 
 \end_layout
 
 \begin_layout Standard
+\noindent
 bajo un fuerte deseo inexplicable de llegar al Sol.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Pesadillas en las noches los atormentaban con preguntas de un pasado que
  no recordaban 
 \end_layout
 
 \begin_layout Standard
+\noindent
 y de día el sol segaba sus respuestas con un anhelo difícil de saciar.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Desesperados, construyeron un escape, y se lanzaron al cielo en busca del
  Sol naciente.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Pero el plan falló.
  Cayeron a la superficie de la tierra\SpecialChar \ldots{}
 a un lugar primitivo y abandonado por
@@ -253,22 +268,26 @@ a un lugar primitivo y abandonado por
 \end_layout
 
 \begin_layout Standard
+\noindent
 Cuando hiban callendo, el hermano menor se salió inconciente del artefacto,
  y calló en el mar.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Un niño lo vio y lo salvó, y lo llevó a la casa del anciano del pueblo.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Al despertar, el anciano habla con él.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Caiste de mucha altura\SpecialChar \ldots{}
 tienes la dicha de que Ruro te encontrara antes de
  ahogarte.
@@ -276,16 +295,19 @@ tienes la dicha de que Ruro te encontrara antes de
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Cómo te llamas niño del cielo? 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Rido? eso no es un nombre, es una fruta que crece en la playa debajo de
  la tierra.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Qué donde está tu hermano? Puede ser que halla sido la estrella que impactó
  en una de las montañas del Surco.
  Pero no puedes ir allá, los Urios han invadido estas tierras y el pueblo
@@ -294,6 +316,7 @@ tienes la dicha de que Ruro te encontrara antes de
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Valla que eres obstinado.
  Aún así quieres ir.
  Ve al Norte, al pie de las montañas, hay un camino secreto entre los arbustos.
@@ -301,6 +324,7 @@ tienes la dicha de que Ruro te encontrara antes de
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido sale de la casa del Anciano.
  Está lloviendo y es de noche.
  Todas las demás casas están cerradas.
@@ -309,6 +333,7 @@ Rido sale de la casa del Anciano.
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Qué haces despierto tan tarde? vete a tu casa, los Urios han capturado
  la tribu de los Mitrones en las Montañas del Surco.
  Tenemos miedo de que nosotros seamos los próximos.
@@ -316,6 +341,7 @@ Rido sale de la casa del Anciano.
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Somos solo campesinos, no sabemos como luchar.
  Tengo mucho miedo.
  Quiero irme a casa.
@@ -323,6 +349,7 @@ Rido sale de la casa del Anciano.
 \end_layout
 
 \begin_layout Standard
+\noindent
 -debemos luchar.
  Por nuestra familia y nuestros ancestros.
  Ya perdimos nuestro hogar una vez.
@@ -331,11 +358,13 @@ Rido sale de la casa del Anciano.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Hay un niño oculto en un arbustro detrás de una casa.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Ya estas mejor? soy Ruro, yo te salvé cuando caiste al mar.
  Quiero salir y destruir a los Urios, ellos mataron a mi padre.La única manera
  de salir, es por el pasadizo que llegamos aqui cuando huímos de los Urios,
@@ -345,6 +374,7 @@ Hay un niño oculto en un arbustro detrás de una casa.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido se dirige al norte.
  Hay mucha llerva alta y en uno de sus bordes en la llerva una roca, al
  empujarlo desvela un pasadizo, cae por el, la piedra retorna a su lugar.
@@ -353,6 +383,7 @@ Rido se dirige al norte.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Luego del descenso por algunos túneles llega a la localidad de los Mitrones,
  cobijos en las paredes a penas muy simples, circulares y de tierra, otros
  simplemente eran perforaciones en la pared.
@@ -360,18 +391,21 @@ Luego del descenso por algunos túneles llega a la localidad de los Mitrones,
 \end_layout
 
 \begin_layout Standard
+\noindent
 Pero en los hogares o están vacíos o se encuentran esposas de los mitrones
  temblando y ocultas detrás de algo, quizás abrazando a sus niños también.
  Esto es lo que le dicen algunas: 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -huye niño de estas montañas.
  Huye antes de que seas barrido junto con mi pueblo\SpecialChar \ldots{}
 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -escóndete.
  Nos están observando.
  saben que estás aqui.
@@ -383,11 +417,13 @@ Pero en los hogares o están vacíos o se encuentran esposas de los mitrones
 \end_layout
 
 \begin_layout Standard
+\noindent
 Encuentra un lugar donde atienden a un herido Mitrón del clan de los cazadores.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -aghhh\SpecialChar \ldots{}
 Ahhh\SpecialChar \ldots{}
 uggh..
@@ -397,6 +433,7 @@ uggh..
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿El niño del cielo es tu hermano? ¿que lo quieres rescatar de los Urios?
  Mi clan, los cazadores\SpecialChar \ldots{}
 todos mis hombres han muerto en esta guerra\SpecialChar \ldots{}
@@ -405,6 +442,7 @@ y tu,
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Vamos a hacer una apuesta.
  Si logras golpearme, te mostraré una forma de rescatar a tu hermano.
  Claro, si es que logras alcanzarme.
@@ -412,6 +450,7 @@ y tu,
 \end_layout
 
 \begin_layout Standard
+\noindent
 Sale corriendo el anciano rapidamente, cambiando de direccion y metiendose
  por lugares que antes no podías pasar.
  Rido lo persigue con dificultad pues tambien debe correr.
@@ -423,6 +462,7 @@ Sale corriendo el anciano rapidamente, cambiando de direccion y metiendose
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Tienes resistencia muchacho.
  Detrás de esta pared están los Urios.
  Pero primero tendrás que vencerme.
@@ -431,32 +471,38 @@ Sale corriendo el anciano rapidamente, cambiando de direccion y metiendose
 \end_layout
 
 \begin_layout Standard
+\noindent
 Le entrega el Báculo corta rocas.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Demuéstrame cuanto te importa tu hermano.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Cuando Rido trata de darle, el es muy rápido y lo esquiva.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Soy el jefe de los cazadores, ¿qué esperabas? ¿Por qué no intentas otra
  cosa? 
 \end_layout
 
 \begin_layout Standard
+\noindent
 Así que Rido con la espátula corta rocas del suelo y las va bateando, hasta
  que logra vencerlo.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Sorprendente niño, tienes una gran fortaleza e inteligencia.
  Yo, Camus, el Tengue del clan los cazadores mitrones.
  Quiero pedirte un favor.
@@ -468,12 +514,14 @@ Así que Rido con la espátula corta rocas del suelo y las va bateando, hasta
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido acepta.
  traspasa el muro y sigue caminando hacia las cámaras donde acampan los
  Urios.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido llega a unos túneles donde ve a los mitrones escavadores siendo forzados
  por los Urios de Vigilancia (apariencia reptilosa con unos de sus brazos
  enormes para golpear de frente su puño).
@@ -483,18 +531,22 @@ Rido llega a unos túneles donde ve a los mitrones escavadores siendo forzados
 \end_layout
 
 \begin_layout Standard
+\noindent
 - 
 \end_layout
 
 \begin_layout Standard
+\noindent
 - 
 \end_layout
 
 \begin_layout Standard
+\noindent
 - 
 \end_layout
 
 \begin_layout Standard
+\noindent
 En túneles inclinados aparecerán urios de lanzando rocas gigantes atrás
  de Rido, que debe de esquibar, rocas rodantes que lo perseguirán y saber
  bien que túnel elegir al avanzar, ya que es una especie de laberinto, que
@@ -505,6 +557,7 @@ En túneles inclinados aparecerán urios de lanzando rocas gigantes atrás
 \end_layout
 
 \begin_layout Standard
+\noindent
 Empiezan a tirar simultáneamente un monton de piedras gigantes rodantes
  y Rido debe esquivarlas mientras asciende.
  Luego que asciende tiene que luchar contra los urios de vigilancia que
@@ -515,16 +568,19 @@ Empiezan a tirar simultáneamente un monton de piedras gigantes rodantes
 \end_layout
 
 \begin_layout Standard
+\noindent
 - Soy Sayros, General de los Ejércitos del pueblo Urio, leal sirviente del
  único emperador Remsu.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -¿Que dices?¿Quieres que libere a tu hermano y a este pueblo? (risa) 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Otro niño del cielo que viene a causar revuelo entre mis esclavos.
  ¿Tratando de nuevo de liberarlos? Mis antepasados les temieron por décadas,
  niños con fuerza escepcional que parecen nacidos del sol, cuya luz aprisionó
@@ -540,6 +596,7 @@ Empiezan a tirar simultáneamente un monton de piedras gigantes rodantes
 \end_layout
 
 \begin_layout Standard
+\noindent
 Comienza entonces una lucha, donde se mueve Rido, Sayros aparece y lo golpea
  a galletazos.
  Al final, le da un golpe de gracia.
@@ -549,12 +606,14 @@ Comienza entonces una lucha, donde se mueve Rido, Sayros aparece y lo golpea
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Mis antepasados han sido vengados,y tu, último niño del cielo, me guiarás
  en encontrar la manera de liberar al emperador de su eterno sueño.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Tatengue Marcus, como verá la salvación de su pueblo no llegó como esperaba,
  por el amor que siente por su gente, le sugiero que me diga donde esta
  el fragmento de la piedra que se depositó a los pies de los mitrones en
@@ -563,6 +622,7 @@ Comienza entonces una lucha, donde se mueve Rido, Sayros aparece y lo golpea
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Mi vida, mi gente, todo lo entrego por los pueblos del Aido y la libertad.
  Por eso los hice cabar hasta aqui.
  Mira, la gran piedra angular de la montaña.
@@ -571,18 +631,21 @@ Comienza entonces una lucha, donde se mueve Rido, Sayros aparece y lo golpea
 \end_layout
 
 \begin_layout Standard
+\noindent
 Marcus Atacó la gran piedra angular que sostenía la montaña y colapsó encima
  de todos: los urios, los mitrones y los niños del cielo.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 Camus sacrificó su vida para salvar a Rido del derrumbe, pero antes de dejarlo
  ir le reveló algunos cosas al muchacho.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Niño del Cielo\SpecialChar \ldots{}
 niño\SpecialChar \ldots{}
 ugh ugh..
@@ -603,6 +666,7 @@ ugh ugh..
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido huye\SpecialChar \ldots{}
 el derrumbe continúa\SpecialChar \ldots{}
 hasta un punto en que todo queda en oscuridad.
@@ -610,16 +674,19 @@ hasta un punto en que todo queda en oscuridad.
 \end_layout
 
 \begin_layout Standard
+\noindent
 escucha una voz.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Rido, niño del cielo.
  ¿Me escuchas? 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Todo el pueblo de los mitrones ha perecido.
  Sayros y sus secuaces siguen con vida.
  No lograste salvar a este pueblo ni a tu propio hermano.
@@ -630,12 +697,14 @@ escucha una voz.
 \end_layout
 
 \begin_layout Standard
+\noindent
 (Hay que reflejar en Rido la tristeza de no haber podido tener el poder
  para salvar a este pueblo ni a su hermano, es incompetencia, esa necesidad
  de continuar mejorando) 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Ahora tendrás que salir fuera de las montañas.
  En la llanura no te atacarán los Urios uno por uno como en las cavernas.
  Sino en grupos.
@@ -644,6 +713,7 @@ escucha una voz.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido se mueve.
  Tiene que trasladar rocas.
  y quitar alguna que otra.
@@ -652,6 +722,7 @@ Rido se mueve.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Sale por donde habia entrado a las montañas.
  asi que se dirige a la costa.
  Ahi se encuentra con una chica mirando la playa.
@@ -661,21 +732,25 @@ Sale por donde habia entrado a las montañas.
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Te embarcarás en una Travesía hacia la lejana isla de Yulostea, te enfrentaras
  a lugares tormentosos en el mar, y a bestias enormes.
  En la isla están las tumbas de los antiguos.
  En una de ellas el arma definitiva contra la maldad.
 \end_layout
 
-\begin_layout Chapter
+\begin_layout Standard
+\noindent
 La Isla de Yulostea
 \end_layout
 
 \begin_layout Standard
+\noindent
 La chica continuo disciendole: 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Este no es un pueblo marinero, debido a que tienen poco tiempo de haberse
  establecido en este lugar.
  Deberás encontrar la manera de conseguir algun tipo de embarcación para
@@ -685,17 +760,20 @@ La chica continuo disciendole:
 \end_layout
 
 \begin_layout Standard
+\noindent
 en el mismo momento despertó otra vez en casa de gon y ahí estaba Ruro:
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Esta es la segunda vez que te salvo en la playa.
  La proxima vez te voy a cobrar.
  (rie) 
 \end_layout
 
 \begin_layout Standard
+\noindent
 Rido fue a la playa.
  Efectivamente había una embarcación alli.
  preguntando en el pueblo por el dueño por fin dio con el en el Bar de Ravio.
@@ -703,11 +781,13 @@ Rido fue a la playa.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Totalmente Ebrio.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Si..
  Hip\SpecialChar \ldots{}
 es mi barco\SpecialChar \ldots{}
@@ -730,6 +810,7 @@ Me llaman Dorio.
 \end_layout
 
 \begin_layout Standard
+\noindent
 En lo que Rido busca el mapa, en el pueblo el terrateniente mas grande del
  lugar, Torepo presenta una plaga abominable de ratones en su mansión en
  el Rancho Cap.
@@ -737,11 +818,13 @@ En lo que Rido busca el mapa, en el pueblo el terrateniente mas grande del
 \end_layout
 
 \begin_layout Standard
+\noindent
 En el bar, habló con Lucio, el constructor de casas del pueblo.
  
 \end_layout
 
 \begin_layout Standard
+\noindent
 -un mapa\SpecialChar \ldots{}
 quizas consigas alguna pista en la Mansion de Torepo en el Rancho
  Cap.
@@ -752,6 +835,7 @@ quizas consigas alguna pista en la Mansion de Torepo en el Rancho
 \end_layout
 
 \begin_layout Standard
+\noindent
 Cuando va a casa de Torepo, encuentra a un hombre fuerte, muy preocupado
  y dando vueltas de un lado al otro.
  Es Clemis, el Mayodormo de la casa.
@@ -759,6 +843,7 @@ Cuando va a casa de Torepo, encuentra a un hombre fuerte, muy preocupado
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Mis Kíos! que alguien busque a mis Kíos! El señor Torepo me va a matar!
  Estos siervos inútiles que tengo no han logrado dar con ellos.
  Tu! eres\SpecialChar \ldots{}
@@ -769,6 +854,7 @@ el niño que cayó del cielo en nuestro pueblo.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Por lo tanto Rido recoge los Kios por el pueblo de Lesios con tal de poder
  entrar a la Mansion.
  En total son 6 Kíos dispersados por el pueblo, en algunos casos se puede
@@ -779,6 +865,7 @@ Por lo tanto Rido recoge los Kios por el pueblo de Lesios con tal de poder
 \end_layout
 
 \begin_layout Standard
+\noindent
 Cuando lo logra, Clemis lo felicita.
  Cuando le dice que quiere entrar a la parte subterránea de la Mansión.
  Clemis se niega rotundamente.
@@ -790,6 +877,7 @@ Cuando lo logra, Clemis lo felicita.
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Clemis\SpecialChar \ldots{}
 ¿Qué pasa con este joven?.
  Oh! es el Niño del Cielo que se hospeda en casa de Gon Farole.
@@ -801,12 +889,14 @@ Cuando lo logra, Clemis lo felicita.
 \end_layout
 
 \begin_layout Standard
+\noindent
 Torepo regresó a la casa.
  A Rido se le entregó un látigo.
  Y lo acompañó al sótano de ese lugar: 
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Se cuenta que un antiguo navegante conocía el secreto maldito de esta tierra
  y para huir del mundo construyó una enorme fortaleza sobre donde se construyó
  esta mansión, llena de trampas y pasadizos, para proteger su secreto.
@@ -818,11 +908,13 @@ Torepo regresó a la casa.
 \end_layout
 
 \begin_layout Standard
+\noindent
 En eso abrió la puerta a la parte subterránea.
  la Entrada a la antigua fortaleza.
 \end_layout
 
 \begin_layout Standard
+\noindent
 La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
  Argos.
  A lo largo del lugar Rido encontrará fragmentos de lo que fue el diario
@@ -834,6 +926,7 @@ La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
 \end_layout
 
 \begin_layout Standard
+\noindent
 -El emperador duerme un sueño profundo, y sus socios se encuentran desparramados.
  Vuelven al continente a buscar venganza.
  Pero aqui los espero en mi fortaleza.
@@ -843,6 +936,7 @@ La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Una nueva era se levanta para nosotros los esclavos, ahora llamados libres,
  libres del yugo perverso del emperador.
  Pero ellos estan ahi, moran sin ser vistos del otro lado del mar.
@@ -851,6 +945,7 @@ La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Tu, que burlas mis trampas, tu que vas a robar mi tesoro.
  A ti te encomiendo mi patria.
  Levanta mis caídos, ve a Yulostea, detén a los Bardos y su huestes.
@@ -861,6 +956,7 @@ La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Antes nos contábamos como hijos de la libertad en la tierra Kaio.
  Pero el caos llego del mar.
  Los que una vez hulleron por lo abrumador que les resultaba el desierto,
@@ -870,19 +966,17 @@ La Fortaleza es un lugar lleno de Trampas, fue la residencia del Navegante
 \end_layout
 
 \begin_layout Standard
+\noindent
 -Los dioses vieron nuestro llanto, y tres niños llegaron a nuestro suelo,
  y se levantaron contra el emperador.
  Los esturios tambien luchamos, una parte de nosotros.
  La lucha fue muy encarnizada.
  Pero el emperador era muy poderoso.
  Pero no nos quizo liberar, apreto mas su mano dura contra nosotros.
- Los activistas tuvimos que huir a las islas de Mintos (Yulostea y Baiklás).
+ Los revolucionarios tuvimos que huir a las islas de Mintos (Yulostea y
+ Baiklás).
  A su tiempo el emperador lanzó todo su ataque contra nosotros en Yulostea,
  donde tuvimos la batalla final.
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \end_body
